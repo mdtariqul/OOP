@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569047385 source:c:\users\user\documents\class prb1\bkash\labw\src\lab.cpp
+	"lab.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1569045559 c:\users\user\documents\class prb1\bkash\labw\include\lab.h
+
+1569047492 source:c:\users\user\documents\class prb1\bkash\labw\main.cpp
+	<bits/stdc++.h>
+	"lab.h"
+

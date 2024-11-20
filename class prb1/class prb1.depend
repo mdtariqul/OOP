@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1566790304 source:c:\users\user\documents\class prb1\src\a.cpp
+	"A.h"
+
+1566790304 c:\users\user\documents\class prb1\include\a.h
+
+1566790580 source:c:\users\user\documents\class prb1\main.cpp
+	<iostream>
+	"A.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569606991 source:c:\users\user\documents\class prb1\bkash\short\src\sort.cpp
+	"sort.h"
+	<string.h>
+	<iostream>
+
+1569607820 c:\users\user\documents\class prb1\bkash\short\include\sort.h
+	<string>
+
+1569607000 source:c:\users\user\documents\class prb1\bkash\short\main.cpp
+	<iostream>
+	<string.h>
+	"sort.h"
+

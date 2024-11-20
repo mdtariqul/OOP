@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569652701 source:c:\users\user\documents\class prb1\bkash\frind\main.cpp
+	<iostream>
+	"brac bank.h"
+
+1569652701 c:\users\user\documents\class prb1\bkash\frind\include\brac bank.h
+
+1569651263 source:c:\users\user\documents\class prb1\bkash\frind\src\brac bank.cpp
+	"brac bank.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570861338 source:c:\users\user\documents\class prb1\bkash\inheretance\main.cpp
+	<iostream>
+	"a.h"
+
+1570861759 source:c:\users\user\documents\class prb1\bkash\inheretance\src\a.cpp
+	"a.h"
+	<iostream>
+
+1570861410 c:\users\user\documents\class prb1\bkash\inheretance\include\a.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566889231 source:f:\book\quad\src\quad.cpp
+	"quad.h"
+	<math.h>
+
+1566888046 f:\book\quad\include\quad.h
+
+1566888972 source:f:\book\quad\main.cpp
+	<iostream>
+	"quad.h"
+

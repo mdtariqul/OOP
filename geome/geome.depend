@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566886796 source:f:\book\geome\main.cpp
+	<iostream>
+	"geome.h"
+
+1566886831 f:\book\geome\include\geome.h
+

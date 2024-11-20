@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570373422 source:c:\users\user\documents\class prb1\bkash\bkash\src\bkash.cpp
+	"bkash.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1570373422 c:\users\user\documents\class prb1\bkash\bkash\include\bkash.h
+	<fstream>
+
+1570374963 source:c:\users\user\documents\class prb1\bkash\bkash\main.cpp
+	<bits/stdc++.h>
+	"bkash.h"
+

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1568993615 source:f:\assignment\bkash management\main.cpp
+	<iostream>
+	"user.h"
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1568993614 f:\assignment\bkash management\include\user.h
+
+1568916941 source:f:\assignment\bkash management\src\user.cpp
+	"user.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1568993616 source:e:\bkash management\main.cpp
+	<iostream>
+	"user.h"
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1568993616 e:\bkash management\include\user.h
+
+1568916942 source:e:\bkash management\src\user.cpp
+	"user.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1568993616 source:c:\users\user\documents\class prb1\bkash\bkash management\main.cpp
+	<iostream>
+	"user.h"
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1568993616 c:\users\user\documents\class prb1\bkash\bkash management\include\user.h
+
+1568916942 source:c:\users\user\documents\class prb1\bkash\bkash management\src\user.cpp
+	"user.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
